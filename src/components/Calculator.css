@@ -31,7 +31,6 @@ body {
     height: 60px;
     text-align: right;
     border: 3px solid #333;
-    width: 100%;
     box-sizing: border-box;
     grid-column: span 4;
 }
